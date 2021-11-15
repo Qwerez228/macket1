@@ -1300,6 +1300,10 @@ text-transform: uppercase;
     display: none;
 }
 
+#tr-popup{
+    display: none;
+}
+
 /*MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA*/
 
 @media (max-width: 1300px){
@@ -1755,6 +1759,10 @@ text-align: center;
 
     .Reacktphoto{
         width: 340px;
+    }
+
+    #tr-popup{
+        display: none;
     }
 
 }
