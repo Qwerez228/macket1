@@ -1304,6 +1304,10 @@ text-transform: uppercase;
     display: none;
 }
 
+#tr-popup, #tr-popup * {
+    display: none;
+}
+
 /*MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA*/
 
 @media (max-width: 1300px){
@@ -1762,6 +1766,10 @@ text-align: center;
     }
 
     #tr-popup .tr-popup{
+        display: none;
+    }
+
+    #tr-popup, #tr-popup * {
         display: none;
     }
 
