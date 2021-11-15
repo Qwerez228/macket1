@@ -1300,7 +1300,7 @@ text-transform: uppercase;
     display: none;
 }
 
-#tr-popup{
+#tr-popup, .tr-popup{
     display: none;
 }
 
@@ -1761,7 +1761,7 @@ text-align: center;
         width: 340px;
     }
 
-    #tr-popup{
+    #tr-popup .tr-popup{
         display: none;
     }
 
