@@ -1,0 +1,1760 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0;
+}
+
+p{
+    margin: 0;
+
+}
+
+#preact{
+    height: 25px;
+    margin: 0;
+}
+
+textarea{
+    padding: 0;
+}
+
+button{
+    cursor: pointer;
+}
+
+ul{
+    margin: 0;
+    padding-left: 34px;
+    padding-top: 13px;
+    margin-bottom: 23px;
+    height: 178px;
+    font-family: Nunito Sans;
+    font-style: Regular;
+    font-size: 13px;
+    line-height: 26.6px;
+    line-height: 150%;
+    text-align: Left;
+    vertical-align: Top;
+    fill: Solid;
+    color: #959595;
+}
+
+header{
+    display: flex;
+    width: 100%;
+    height: 83px;
+    justify-content: center;
+    background-color: #131313;
+    color: #fff;
+    font-size: 11px;
+    line-height: 15px;
+}
+
+a{
+    color: #fff;
+    align-self: center;
+}
+
+.Group2{
+    width: 1256px;
+    height: 37px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+    margin-left: 92px;
+    margin-right: 90px;
+}
+
+.logo{
+    align-self: center;
+    width: 180px;
+    text-transform: uppercase;
+    color: #E3B873;
+    ;
+}
+
+.nav{
+    align-self: center;
+    width: 582px;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.nav-link{
+    text-decoration: none;
+}
+
+.nummber{
+    width: 126px; 
+    height: 16px;
+    text-align: end;
+    color: #E3B873;
+}
+
+.headerbatton{
+    width: 161px;
+    height: 37px;
+    background-color: #E3B873;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.2);
+    color: #FFFFFF;
+}
+
+
+
+.Group7{
+    height: 707px;
+    
+}
+
+.container{
+    max-width:1440px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.container2{
+    max-width:1171px;
+    max-height: 552px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    padding-top: 107px;
+
+}
+
+.container3{
+    width: 1263px;
+    margin: 0 auto;
+}
+
+.Rectangle3{
+    
+    height: 100%;
+    width: 100%;
+    background-repeat: round;
+    background: rgba(0, 0, 0, 0.7);
+    background-size: cover !important;
+    background-blend-mode: multiply;
+}
+
+.image4{
+    width: 100%;
+    height: 100%;
+}
+
+.Stepsuptitle{
+    width: 550px;
+    height: 105px;
+    color: #FFFFFF;
+    font-family: 'Yeseva One', cursive;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    text-transform: uppercase;
+    position: absolute;
+   margin-top: 194px;
+   margin-left: 134px;;
+}
+
+.rostock{
+    display: contents;
+    color: #E3B873;
+    font-family: 'Yeseva One', cursive;
+}
+
+.Steptitle{
+    position: absolute;
+    margin-top: 318px;
+    margin-left: 134px;
+    width: 504px;
+    height: 89px;
+    color: #FFFFFF;
+    font-family: Nunito Sans;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+
+}
+
+.Stepbutton{
+    position: absolute;
+    margin-top: 448px;
+    margin-left: 134px;
+width:207px;
+height:51px;
+background: #E3B873;
+border: none;
+box-shadow: 0px 5px 15px rgba(227, 184, 115, 0.3);
+border-radius: 2px;
+font-family: Nunito Sans;
+font-style: italic;
+font-weight: normal;
+font-size: 11px;
+line-height: 15px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.Stepbutton2{
+    position: absolute;
+    margin-top: 448px;
+    margin-left: 361px;
+width:207px;
+height:51px;
+background-color: initial;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 2px;
+font-family: Nunito Sans;
+font-style: italic;
+font-weight: normal;
+font-size: 11px;
+line-height: 15px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.Complleted_project{
+height: 1074px;
+background-color: #131313;
+}
+
+.Grop22{
+    height: 24px;
+    display: flex;
+    justify-content: end;
+
+}
+
+.Rostov{
+    padding-right: 60.5px;
+}
+
+.Sochi{
+    padding-right: 56px;
+}
+
+h2{
+    Width: 253px;
+    Height: 66px;
+    margin-top: 45.5px;
+    color:  #E3B873;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: normal;
+    font-family: Yeseva One;
+    font-size: 27px;
+    line-height: 37px;
+    letter-spacing: -0.07em;
+    text-transform: uppercase;
+}
+
+h4{
+    font-family: Yeseva One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+.Group232{
+    Width: 442px;
+}
+
+.Small{
+    padding-top: 34px;
+    width :442px;
+    height:86px;
+    color: #fff;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 27px;
+}
+
+.city1, .city2{
+    padding-top: 42px;
+    width: 50%;
+}
+
+.city3, .city4{
+    width: 50%;
+}
+
+.city11{
+    color: #FFFFFF;
+    display: flex;
+}
+
+.city12{
+    color: #FFFFFF;
+    display: flex;
+    padding-top: 34px;
+}
+
+h3{
+    margin-bottom: 9px;
+    margin-top: 42px;
+    display: table-row;
+    text-transform: uppercase;
+    color: #E3B873;
+}
+
+
+.Rectangle{
+    width: 205.68px;
+    height: 13.28px;
+    display: flex;
+    justify-content: space-between;
+    bottom: 0;
+}
+
+.Rectangle1{
+    display: flex;
+    height: 9.566811561584473px;
+    width: 63.777793884277344px;
+    border-radius: 30px;
+    justify-content: space-between;
+    align-self: center;
+
+}
+
+.Rectangle11{
+    height: 9.566666603088379px;
+    width: 9.566666603088379px;
+    border-radius: 30px;
+    background-color: #FFFFFF;
+
+}
+
+.Rectangle12, .Rectangle13{
+    height: 9.566666603088379px;
+    width: 9.566666603088379px;
+    border-radius: 30px;
+    background: rgba(255, 255, 255, 0.3)
+}
+
+
+.Arrow2{
+    height: 13.276084899902393px;
+width: 7.585609436035185px;
+border-radius: 0px;
+}
+
+.Arrow3{
+    height: 13.276084899902393px;
+    width: 7.585609436035185px;
+    transform: rotate(-180deg);
+}
+
+.glodline12{
+    height: 1px;
+width: 193.935546875px;
+background: #E3B873;
+
+
+}
+
+.Rostov{
+    font-family: Yeseva One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color:  #E3B873;
+text-transform: uppercase;
+}
+
+.Sochi{
+    font-family: Yeseva One;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF4D;
+text-transform: uppercase;
+}
+
+.LeftRight{
+    display: flex;
+    width: 100%;
+    height: 528px;
+    justify-content: space-between;
+}
+
+.rightProject{
+    width: 679px;
+    height: 482px;
+    align-self: end;
+
+}
+
+.onlineControl{
+    height: 26px;
+    margin-top: 92px;
+    padding-bottom: 12.5px;
+}
+
+#oncont{
+    margin-top: 75.5px;
+}
+
+.videoicon{
+    display: flex;
+    justify-content: center;
+}
+
+.WhiteVideo{
+    width: 100%;
+    background-color: #FFFFFF;
+}
+
+.PhotoVideo{
+    width: 817px;
+    height: 434px;
+    background: rgba(0, 0, 0, 0.8);
+    background-image: url(PhotoVideo.png);
+    background-blend-mode: multiply;
+    overflow-x: overlay;
+    margin: 0 auto;
+    margin-top: 31.5px;
+}
+
+.ElloyElips{
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    background: #E3B873;
+    box-shadow: 0px 5px 30px rgba(227, 184, 115, 0.2);
+}
+
+
+.Polygon{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.GoldScript1{
+    width: 100%;
+    height: 290.5px;
+    display: flex;
+    justify-content: center;
+}
+
+.GoldStrip{
+    width: 55px;
+    height: 1.54px;
+    background: #E3B873;
+    justify-content: center;
+    align-self: self-end;
+}
+
+.Ateach1{
+    display: flex;
+    justify-content: center;
+    margin-top: 34.5px;
+}
+
+.Ateach{
+    width: 681px;
+    height: 131px;
+    text-align: center;
+    font-family: Nunito Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 37px;
+text-align: center;
+
+color: #363636;
+}
+
+
+
+.inputi{
+    width: 769px;
+    height: 51px;
+    margin: 0 auto;
+    margin-top: 95.5px;
+    display: flex;;
+}
+
+.inputi1{
+    width: 520px;
+    height: 42px;
+    display: flex;
+}
+
+.inputi11{
+    width: 289px;
+    height: 45px;
+}
+
+.inputi12{
+    width: 231px;
+    height: 45px;
+}
+
+.namearea{
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    border: none;
+    background: inherit;
+    color: #000;
+    resize: none;
+    height: 23px;
+}
+
+.goldline{
+    width: 231px;
+    height: 1px;
+    border: 1px solid rgba(54, 54, 54, 0.3);
+box-sizing: border-box;
+transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+input{
+    height: 17px;
+    border: none;
+    text-decoration: none;
+    
+}
+
+.InputBatton{
+    width: 200px;
+    height: 51px;
+    border: none;
+    background: #E3B873;
+box-shadow: 0px 15px 15px rgba(227, 184, 115, 0.15);
+border-radius: 2px;
+color: #FFFFFF;
+}
+
+.RightInput{
+    width: 100%;
+    justify-content: end;
+    display: flex;
+}
+
+.Group49{
+    display: flex;
+    justify-content: center;
+    height: 18px;
+    margin-top: 35px;
+}
+
+.Group39{
+    width: 340px;
+    justify-content: center;
+}
+
+.label {
+    cursor: pointer;
+  }
+  .checkbox{
+    display: none;
+  }
+  .fake{
+    display: inline-flex;
+    width: 18px;
+    height: 18px;
+    background: #E3B873;
+    color: #fff;
+    justify-content: center;
+  
+  
+  }
+  .fake::before{
+    content:"\2714";
+    opacity: 0;
+    transition: .2s;
+          border: 1.5px, solid #FFFFFF;
+      height: 5.711538314819336px;
+  width: 8.30769157409668px;
+  }
+  .checkbox:checked + .fake::before{
+    opacity: 1;
+  }
+  
+  
+  
+  
+  
+  
+  .checkbox-other {
+      display: block;
+      margin: 0 0 10px 0;
+      cursor: pointer;
+      user-select: none;
+      position: relative;
+  }
+  .checkbox-other input[type=checkbox] {
+      position: absolute;
+      z-index: -1;
+      opacity: 0;
+      display: block;
+      width: 0;
+      height: 0;
+  }
+  .checkbox-other span {
+      display: inline-block;
+      position: relative; 
+      padding: 0 0 0 26.5px; 
+      line-height: 18px;   
+      font-family: Nunito Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+ 
+  }
+  .checkbox-other span:before {
+      content: "";
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      position: absolute;
+      left: 0;
+      top: 0;
+      transition: background 0.3s ease;
+       background: #E3B873;   
+  }
+   
+  /* Checked */
+  .checkbox-other input[type=checkbox]:checked + span:before {
+      
+      background-image: url(Group%2048.png); ;
+  }
+   
+  /* Focus */
+  .focused span:before {
+      box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+  }
+   
+  /* Hover */
+  .checkbox-other span:hover:before {
+      filter: brightness(110%);
+  }
+   
+  /* Active */
+  .checkbox-other span:active:before {
+      filter: brightness(80%);
+  }
+   
+  /* Disabled */
+  .checkbox-other input[type=checkbox]:disabled + span {
+      color: #666;
+      cursor: default;
+  }
+  .checkbox-other input[type=checkbox]:disabled + span:before {
+      filter: grayscale(100%);
+      opacity: 0.6;
+  }
+
+.Reackt{
+    width: 1236px;
+    height: 608px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 31px;
+}
+
+.Reackt1{
+    width: 392px;
+    height: 100%;
+}
+
+.Reackttext{
+    width: 330px;
+    height: 314px;
+    margin: 0 auto;
+    position: relative;
+    background-color: #FFFFFF;
+    margin-top: 294px;
+}
+
+.H1React{
+    font-family: Yeseva One;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 24.95px;
+    line-height: 120%;
+    text-align: left;
+    vertical-align: Top;
+    fill: Solid;
+    color: #363636;
+    padding-top: 25px;
+    margin-left: 34px;
+}
+
+.blockreackt{
+    width: 330px;
+    height: 286px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.03);
+}
+
+.ReacktButton{
+    width: 228px;
+    height: 54px;
+    background-color: #E3B873;
+    border: none;
+    box-shadow: 0px 15px 15px rgba(227, 184, 115, 0.15);
+    color: #FFFFFF;
+    text-align: center;
+    align-self: center;
+    Font-family: Yeseva One;
+    Font-style: Regular;
+    Font-size: 18px;
+    Line-height: 24.95px;
+    Line-height: 120%;
+}
+
+.registratiom{
+    width: 100%;
+    display: flex;
+    margin-top: 124px;
+}
+
+.citiimg{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    background-repeat: no-repeat;
+}
+
+
+.numerreg1{
+    width: 375px;
+    height: 473.5px;
+    margin-top: 70px;
+    margin-right: 79.2px;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.numberreg{
+    height: 41.76px;
+    width: 100%;
+    font-family: Nunito Sans;
+    display: inline-flex;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.radiusnumb{
+    width: 41.76px;
+    height: 41.76px;
+    display: flex;
+    border-radius: 50%;
+    background-color: #E3B873;
+    border: 8px solid #FFFFFF;
+    box-shadow: 0px 5px 15px 0px #E3B87326;
+    align-self: center;
+    margin-right: 9px;
+
+}
+
+.radtext{
+    width: 100%;
+    text-align: center;
+    align-self: center;
+    color: #FFFFFF;
+    font-family: Yeseva One;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+
+}
+
+.nubtext{
+    display: contents;
+    align-self: center;
+    width: 316px;
+    height: 39px;
+}
+
+.registr{
+    width: 506px;
+    height: 509px;
+    color: #FFFFFF;
+    margin-top: 106px;
+    margin-left: 131px;
+    justify-content: center;
+    background-color: #131313;
+    box-shadow: 0px, 30px
+    rgba(0, 0, 0, 0.05);
+}
+
+.textform{
+    height: 47px;
+    width: 297px;
+    margin: 0 auto;
+    margin-top: 28px;
+    margin-bottom: 39px;
+    font-family: Nunito Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.Group30{
+    width: 408px;
+    height: 244px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.Group31{
+    width: 408px;
+    height: 50px;
+}
+
+#Group31{
+    display: flex; 
+    justify-content: end;
+}
+
+.goldline1{
+    height: 1px;
+    width: 408px;
+    border-radius: 0px;
+    background-color: rgba(255, 255, 255, 0.15);
+
+}
+
+.reginput{
+    font-family: Nunito Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-family: inherit;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    border: none;
+    background: inherit;
+    color: #FFFFFF;
+    resize: none;
+    height: 23px;
+}
+
+#goldline1{
+    width: 231px;
+}
+
+#goldline2{
+    width: 516px;
+}
+
+.ReacktButton1{
+    width: 213px;
+    height: 51px;
+    background-color: #E3B873;
+    border: none;
+    box-shadow: 0px 5px  rgba(227, 184, 115, 0.15);
+    color: #FFFFFF;
+    font-family: Nunito Sans;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-left: 244px;
+    margin-top: 39px;
+    margin-right: 49px;
+
+}
+
+.minipig{
+    height: 72px;
+    width: 441.0000305175781px;
+    border-radius: 0px;
+    display: flex;
+    margin-right: 32.5px;
+
+}
+
+.radpig{
+    width: 72px;
+    height: 72px;
+    background-color: #E3B873;
+    border-radius: 50%;
+    position: relative;
+    box-shadow:  0px, 10px
+    rgba(237, 192, 120, 0.2);
+}
+
+.minipig1{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+    margin-top: 38.44px;
+}
+
+.pig{
+    width: 40px;
+    height: 33px;
+    margin-top: 19.5px;
+    margin-left: 16px;
+    position: relative;
+    display: flex;
+}
+
+.bacsbig{
+    position: absolute;
+    height: 11.17837142944336px;
+    width: 8.067971229553223px;
+    border-radius: 0px;
+    margin-left: 12.2px;
+    margin-top: 11.59px;
+   
+
+}
+
+.pigtext{
+    color: #E3B873;
+    Font-family: Nunito Sans;
+Font-style: Regular;
+Font-size: 18px;
+Line-height: 25.78px;
+Line-height: 105%;
+text-align: Left;
+align-self: center;
+margin-left: 25px;
+}
+
+.megablock{
+    height: 826px;
+}
+
+.ourclient{
+    width: 1236px;
+    margin: 0 auto;
+    margin-top: 71.4px;
+}
+
+.friend{
+    font-family: Nunito Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+margin-bottom: 39px;
+
+}
+
+.blocksclient1{
+    width: 1237px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}    
+
+.noneframe{
+    display: flex;
+    width: 100%;
+    position: absolute;
+    margin-top: 50.5px;
+}
+
+.blocksclient{
+    width: 376px;
+    height: 428px;
+    box-shadow: 0px 10px 10px rgb(0 0 0 / 4%);
+
+}
+
+.clientphoto1{
+    display: flex;
+}
+
+.clientphoto{
+    margin-top: 24px;
+    margin-left: 20px;
+    height: 77px;
+}
+
+.ClientH{
+    height: 42px;
+    width: 178px;
+    margin-top: 41px;
+    margin-left: 23px;
+    font-family: Yeseva One;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.clientText{
+    width: 324px;
+    height: 216px;
+    color: #959595;
+    margin-top: 22px;
+    margin-left: 20px;
+    font-family: Nunito Sans;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.clientbatton{
+    height: 54px;
+    width: 293.7528076171875px;
+    background-color: #E3B873;
+    display: flex;
+    box-shadow: 0px 5px 5px rgb(227 184 115 / 50%);
+    margin-top: 63px;
+
+}
+
+.leftbutton{
+    width: 50%;
+    background-color: inherit;
+    font-family: inherit;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.rightbutton{
+    width: 50%;
+    background-color: inherit;
+    font-family: inherit;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.lefttext{
+    align-self: center;
+    margin-left: 15.5px;
+    color: #FFFFFF;
+    font-family: Yeseva One;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.heaveany1{
+    position: relative;
+    width: 883px;
+    height: 445px;
+    background-color: #131313;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 159px;
+}
+
+.heaveany{
+    width: 520px;
+    height: 376px;
+    margin: 0 auto;
+    align-self: center;
+}
+
+.columreg1{
+    font-family: Nunito Sans;
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+#Group30{
+    height: 138px; width: 100%;
+}
+
+.Group32{
+    display: flex;
+}
+
+
+#Group49{
+    margin-top: 48.5px;
+}
+
+#InputBatton{
+    margin-left: 160px; 
+    margin-top: 50.5px;
+}
+
+.heaceanyh1{
+    font-family: Yeseva One;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-bottom: 45.5px;
+
+}
+
+.leftbg{
+    width: 50%;
+    height: 776px;
+}
+
+.Rostov12{
+    background-color: #131313;
+    width: 100%;
+}
+
+.Rostov1{
+    background: linear-gradient(180deg, rgba(24, 24, 24, 0.9) 3.47%, rgba(24, 24, 24, 0.72) 100%),
+url(Rostov.png) no-repeat;
+    height: 954px;
+    background-repeat: round;
+    background-size: cover !important;
+}
+
+.rostovtext{
+    text-align: center;
+    font-family: Yeseva One;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+color: #E3B873;
+padding-top: 274.5px;
+text-transform: uppercase;
+}
+
+.rosticon{
+    display: flex;
+    justify-content: center;
+    margin-top: 26px;
+}
+
+
+.Rostovciti{
+    width: 925px;
+    height: 465px;
+    margin: 0 auto;
+    margin-top: 43px;
+}
+
+.Rostovciti1{
+    width: 100%;
+    height: 100%;
+}
+
+
+
+/*FURNITURA*/
+
+.future{
+    margin-top: 129.5px;
+}
+
+.Group16{
+    width: 100%;
+    height: 1018px;
+    position: relative;
+}
+
+.Rectfurnit{
+    width: 100%;
+    height: 864px;
+    display: flex;
+    position: absolute;
+    margin-top: 112.5px;
+    background: linear-gradient(109.8deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.9) 100%), url(furnit.png) no-repeat;
+    background-size: cover;
+
+}
+
+.hdurnit1{
+    width: 510px;
+}
+
+.hfurnit{
+    height: 66px;
+    width: 411px;
+    padding-top: 137.5px;
+    padding-left: 99px;
+    font-family: Yeseva One;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #E3B873;
+    text-transform: uppercase;
+}
+
+.textfurnit{
+    height: 515.9990234375px;
+    width: 299px;
+    padding-top: 47px;
+    padding-left: 99px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+
+
+}
+
+.furnitline{
+    height: 0.6646839380264282px;
+    width: 146.23046875px;
+    background-color: #E3B873;
+
+}
+
+
+.ttextfur{
+    font-family: Nunito Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    color: #FFFFFF;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.photfur{
+    width: 354px;
+    margin-left: 77px;
+}
+
+.photfur1{
+    margin-top: -41px;
+    margin-bottom: 39px;
+}
+
+.photfur3{
+    margin-top: -112.5px;
+    margin-bottom: 37px;
+}
+
+.maskGroup, .telbutton, .telbutton1{
+    display: none;
+}
+
+/*MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA MEDIA*/
+
+@media (max-width: 1300px){
+
+    header{
+        height: 57px;
+    }
+    .nav{
+        display: none;
+    }
+    .headerbatton{
+        display: none;
+    }
+
+    .Group2{
+        width: 100%;
+        height: 15px;
+        margin-left: 18px;
+        margin-right: 18px;
+        margin-top: 23px;
+    }
+
+    .logo{
+        width: 100%;
+    }
+
+    .nummber{
+        width: 100%;
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+
+    .Group7{
+        height: 476px;
+    }
+
+    .Stepsuptitle{
+        width: 300px;
+        height: 60px;
+        
+        margin-top: 85px;
+        margin-left: 0px;
+        font-family: Yeseva One;
+
+font-family: Yeseva One;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: 31px;
+letter-spacing: 0em;
+text-align: left;
+
+    }
+
+    .Steptitle{
+        width: 339px;
+        height: 94px;
+        margin-top: 161px;
+        margin-left: 0;
+        font-family: Nunito Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+    }
+
+    .Stepbutton{
+        width: 338.5px;
+        height: 51px;
+        margin-top: 287px;
+        margin-left: 0;
+    }
+
+    .Stepbutton2{
+        width: 338.5px;
+        height: 51px;
+        margin-top: 364px;
+        margin-left: 0;
+    }
+
+    .container{
+        width: 339px;
+        height: 100%;
+    }
+
+    .container2{
+        padding-top: 0px;
+        max-height: 650px;
+    }
+    
+    .Grop22{
+        display: none;
+    }
+
+    .Compproject{
+        width: 100%;
+        text-align: center;
+        width: 250px;
+        margin: 0 auto;
+        margin-top: 36px;
+        margin-bottom: 22px;
+    }
+
+    .leftProject{
+        margin: 0 auto;
+    }
+    
+    .Small{
+        height: 86px;
+        width: 311px;
+        font-family: Nunito Sans;
+        font-size: 11px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 17px;
+        letter-spacing: 0em;
+        text-align: center;
+        padding-top: 0px;
+        padding-left: 15px;
+
+    }
+
+    .rightProject{
+        display: none;
+    }
+
+    .Group232{
+        width: 340px;
+    }
+
+    .maskGroup{
+        height: 241.54551696777344px;
+        width: 340px;
+        box-shadow: 0px 15px 30px 0px #0000001A;
+        display: flex;
+        position: relative;
+    }
+
+    .telbutton{
+        height: 36.00011062622084px;
+        width: 36.00011062622084px;
+        background: #E3B873;
+        border-radius: 50%;
+        position: absolute;
+        align-self: center;
+        margin-left: 14px;
+        display: flex;
+    }
+
+    .telbutton1{
+        height: 36.00011062622084px;
+        width: 36.00011062622084px;
+        background: #E3B873;
+        border-radius: 50%;
+        position: absolute;
+        align-self: center;
+        margin-left: 291px;
+        display: flex;
+    }
+
+    .blockrecktangle{
+        display: none;
+    }
+
+    .telvector{
+        align-self: center;
+        margin: 0 auto;
+        display: flex;
+
+    }
+
+    .telvector2{
+        align-self: center;
+        margin: 0 auto;
+        display: flex;
+        transform: rotateY(180deg);
+    }
+
+    .onlineControl{
+        margin-top: 58px;
+        padding-bottom: 19.5px;
+    }
+
+    .PhotoVideo{
+        height: 207px;
+        width: 340px;
+        background-image: url(Phototel2.png);
+        margin-top: 40px;
+        margin-bottom: 28px;
+    }
+
+    .container3{
+        width: 100%;
+        background-color: #131313;
+    }
+
+    .GoldScript1{
+        height: 1.53px;
+        width: 100%;
+        background-color:#131313;
+    }
+
+    .Ateach{
+        height: 106.945068359375px;
+        width: 340px;
+        font-family: Nunito Sans;
+font-size: 11px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+    }
+
+    .Ateach{
+        margin-top: 21.5px;
+    }
+
+    .input{
+        background-color: #131313;
+    }
+
+    .inputi{
+        display: block;
+        width: 340px;
+        height: 285.5px;
+        margin-top: 65px;
+    }
+
+    .inputi1{
+        display: flex;
+        height: 152px;
+        width: 100%;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .inputi11{
+        width: 100%;
+        height: 45px;
+    }
+
+    .inputi12{
+        width: 100%;
+        height: 44px;
+    }
+
+    .goldline{
+        width: 100%;
+        margin-top: -6px;
+    }
+
+    .nameinpu{
+        font-family: Nunito Sans;
+        font-size: 13px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 21px;
+        letter-spacing: 0em;
+        text-align: left;
+        color: #FFFFFF80;
+
+          
+    }
+
+    .namearea{
+        font-family: Nunito Sans;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+
+    }
+
+    .RightInput{
+        justify-content: center;
+        padding-top: 107px;
+    }
+
+    .Group49{
+        margin-top: -88.5px;
+        color: #FFFFFF;
+    }
+
+    #oncont{
+        margin-top: 171.5px;
+    }
+
+    .Reackt{
+        display: block;
+    }
+
+    .Reackt1{
+        width: 340px;
+        display: flex;
+        margin: 0 auto;
+        margin-bottom: 59px;
+    }
+
+    .registr, .registratiom, .minipig1,  .textfurnit, .photfur {
+        display: none;
+    }
+
+    futter{
+        display: none;
+    }
+
+    .ourclient, .noneframe, .blocksclient1{
+        display: none;
+    }
+
+    .megablock{
+        height: 100%;
+        margin-top: -121px;
+    }
+
+    .heaveany1{
+        width: 100%;
+        height: auto;
+        margin-top: 0px;
+    }
+
+    .Rostovciti{
+        width: 100%;
+        display: flex;
+        margin-top: 0px;
+        padding-top: 46px;
+    }
+
+    .Reackt{
+        width: 100%;
+        height: auto;
+        margin-bottom: 55px;
+    }
+
+    .future{
+        height: 332px;
+        margin-top: 0;
+    }
+
+    .Rectfurnit{
+        margin-top: 90px;
+        width: 340px;
+        height: 242px;
+        z-index: 2;
+        background:  url(furnit.png) no-repeat;
+        background-size: cover;
+    }
+
+    .Group16{
+        display: flex;
+        justify-content: center;
+    }
+
+    .hdurnit1{
+        display: flex;
+    }
+
+    .hfurnit{
+        text-align: center;
+        width: auto;
+        margin: 0 auto;
+        padding-top: 0px;
+        padding-left: 0px;
+        margin-top: -90px;
+font-size: 22px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+
+
+    }
+
+    .heaveany{
+        margin-top: 173px;
+        width: 340px;
+        height: auto;
+    }
+
+    #Group30{
+        height: auto;
+    }
+
+    .Group32{
+        display: block;
+    }
+
+    .Group31{
+        width: 100%;
+    }
+
+    #Group32{
+        margin-bottom: 32px;
+    }
+
+    #Group31{
+        display: block; 
+        margin-bottom: 32px;
+    }
+
+    #goldline1, #goldline2 {
+        width: 100%;
+    }
+
+    #Group49{
+        margin-top: 21.5px;
+    }
+    
+    #InputBatton{
+        margin-left: 0; 
+        width: 100%;
+        margin-top: 67.5px;
+    }
+
+    .InputBatton{
+        width: 100%;
+    }
+
+    .Rostov1{
+        height: 525px;
+        background: #131313;
+    }
+
+    .rostovtext{
+        position: absolute;
+        margin-top: 343px;
+        background-color: #131313;
+        padding-top: 0px;
+        width: 100%;
+        font-family: Yeseva One;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: center;
+
+
+    }
+
+    .Rostovciti1{
+        height: 255px;
+        margin: 0 auto;
+        width: 340px;
+    }
+
+    .Reacktphoto{
+        width: 340px;
+    }
+
+}
